@@ -402,7 +402,7 @@ You have access to the following dataset:
 {data_context}
 
 Answer this question about the data concisely and insightfully. Include specific numbers when relevant.
-If the data doesn't contain enough information to answer, say so.
+If the data doesn't contain enough information to answer, say so
 
 Question: {request.question}""",
                 }
